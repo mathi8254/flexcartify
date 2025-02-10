@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trail Projects\\Temp\\FlexCartify\\ShopFromHome\\sampleMvc1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD451EC-363D-4D88-B134-B6B6B50BCD94}|sampleMvc1\\sampleMvc1.csproj|d:\\trail projects\\temp\\flexcartify\\shopfromhome\\samplemvc1\\samplemvc1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DD451EC-363D-4D88-B134-B6B6B50BCD94}|sampleMvc1\\sampleMvc1.csproj|solutionrelative:samplemvc1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74538606-EFBC-4463-A9BE-FE0A7120C818}|sampleApiV2\\sampleApiV2.csproj|d:\\trail projects\\temp\\flexcartify\\shopfromhome\\samplemvc1\\sampleapiv2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74538606-EFBC-4463-A9BE-FE0A7120C818}|sampleApiV2\\sampleApiV2.csproj|solutionrelative:sampleapiv2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Trail Projects\\Temp\\FlexCartify\\ShopFromHome\\sampleMvc1\\sampleMvc1\\appsettings.json",
+              "RelativeDocumentMoniker": "sampleMvc1\\appsettings.json",
+              "ToolTip": "D:\\Trail Projects\\Temp\\FlexCartify\\ShopFromHome\\sampleMvc1\\sampleMvc1\\appsettings.json",
+              "RelativeToolTip": "sampleMvc1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T09:17:17.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Trail Projects\\Temp\\FlexCartify\\ShopFromHome\\sampleMvc1\\sampleApiV2\\appsettings.json",
+              "RelativeDocumentMoniker": "sampleApiV2\\appsettings.json",
+              "ToolTip": "D:\\Trail Projects\\Temp\\FlexCartify\\ShopFromHome\\sampleMvc1\\sampleApiV2\\appsettings.json",
+              "RelativeToolTip": "sampleApiV2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T09:15:40.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
